@@ -1,0 +1,99 @@
+[
+  {
+    "Name": "yaki",
+    "Catagory": "Footwear",
+    "Id": 1,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 136
+  },
+  {
+    "Name": "Calvin Klein",
+    "Catagory": "Footwear",
+    "Id": 2,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 812
+  },
+  {
+    "Name": "Puma",
+    "Catagory": "Footwear",
+    "Id": 3,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 567
+  },
+  {
+    "Name": "Puma",
+    "Catagory": "Clothes",
+    "Id": 4,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 564
+  },
+  {
+    "Name": "Puma",
+    "Catagory": "Clothes",
+    "Id": 5,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 316
+  },
+  {
+    "Name": "Adidas",
+    "Catagory": "Clothes",
+    "Id": 6,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 745
+  },
+  {
+    "Name": "Adidas",
+    "Catagory": "Makeup",
+    "Id": 7,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 1455
+  },
+  {
+    "Name": "Nike",
+    "Catagory": "Makeup",
+    "Id": 8,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 675
+  },
+  {
+    "Name": "yaki",
+    "Catagory": "Makeup",
+    "Id": 9,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 923
+  },
+  {
+    "Name": "yaki",
+    "Catagory": "Makeup",
+    "Id": 10,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 450
+  },
+  {
+    "Name": "yaki",
+    "Catagory": "Gaming",
+    "Id": 11,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 295
+  },
+  {
+    "Name": "yaki",
+    "Catagory": "Gaming",
+    "Id": 12,
+    "SubCategoryId": "X67",
+    "SubCategoryName": "Sports Shoes",
+    "Price": 967
+  }
+ 
+]
